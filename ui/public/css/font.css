@@ -1,0 +1,18 @@
+@font-face {
+    font-family: SFNS-Display;
+    src: url("assets/SFNSDisplay-Semibold.otf") format("opentype");
+}
+
+@font-face{
+	font-family:SFNS-Text-Light;
+	src: url("assets/SFNSText-Light.otf") format("opentype");
+}
+
+@font-face{
+	font-family:SFNS-Text-Medium;
+	src: url("assets/SFNSText-Medium.otf") format("opentype");
+}
+@font-face{
+	font-family:SFNS-Text-Regular;
+	src: url("assets/SFNSText-Regular.otf") format("opentype");
+}

@@ -1,0 +1,106 @@
+/* Main content styling */
+#main_content_container{
+	width: 100%;
+	box-sizing: border-box;
+	height: 80vh;
+	overflow: scroll;
+	margin: 1vh 0;
+
+	/* Scroll feature */
+	-ms-overflow-style: none;  /* IE and Edge */
+  	scrollbar-width: none;  /* Firefox */
+
+	/* Debugging styling */
+	/* background-color:greenyellow; */
+
+}
+
+
+#main_content_container::-webkit-scrollbar {
+  display: none;
+}
+
+
+
+/* Main content weather containers styling */
+.weather_preview_box{
+	width: 100%;
+	position: relative;
+	box-sizing: border-box;
+	border: none;
+	border-radius: 0.5em;
+	margin-bottom: 1em;
+	background-color: #C3E4F5;
+
+
+	/* Debugging styling */
+	height: 200px;
+	/* background-color: red; */
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+
+}
+
+.bin_wrapper{
+	width: 28px;
+	padding: 1px;
+}
+
+.location_wrapper{
+	padding: 2%;
+	width: 70%;
+
+}
+.location_wrapper h2{
+	font-family: SFNS-Display;
+	font-size: 1.5em;
+	letter-spacing: -0.09em;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	text-align: right;
+}
+
+.weather_preview_main_content{
+	height: 75%;
+	width: 70%;
+	box-sizing: border-box;
+
+	/* Better way of doing this */
+	padding-left: 1em;
+
+	/* Debugging styling */
+	/* background-color: yellow; */
+}
+
+.bin_wrapper {
+	cursor: pointer;
+}
+
+
+.weather_preview_temp_container{
+	/* Holds temperature units. */
+}
+.weather_preview_temp_container span:nth-child(1){
+	font-size: 4em;
+}
+
+.weather_preview_temp_container span:nth-child(2){
+	font-size: 3em;
+}
+
+
+.weather_preview_hashtag_container{
+	opacity: 0.7;
+	font-size: 1em;
+}
+
+.weather_preview_emoji_statements{
+	box-sizing: border-box;
+	margin: 2px 0px;
+}
+
+.weather_preview_emoji_statements *{
+	padding: 2px 0;
+}

@@ -1,0 +1,20 @@
+/* Bottom bar content styling */
+#bottom_bar_container{
+	width: 100%;
+	box-sizing: border-box;
+	height: 8vh;
+
+	/* Debugging styling */
+	/* background-color: cadetblue; */
+}
+
+#bottom_bar_container button{
+	background-color: black;
+	cursor: pointer;
+}
+
+#bottom_bar_container h2 {
+	font-family: SFNS-Display;
+	font-size: 2em;
+	color: white;
+}

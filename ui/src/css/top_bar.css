@@ -1,0 +1,22 @@
+/* Top bar content styling */
+
+#top_bar_container{
+	width: 100%;
+	box-sizing: border-box;
+	height: 8vh;
+
+	/* Debugging styling */
+	/* background-color: aqua; */
+}
+
+
+#top_bar_container img{
+	width: 32px;
+	cursor: pointer;
+}
+
+h2#logo_title{
+	font-family: SFNS-Display;
+	font-size: 2em;
+	cursor: pointer;
+}

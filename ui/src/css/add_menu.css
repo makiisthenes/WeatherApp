@@ -1,0 +1,67 @@
+.back_button{
+}
+
+#search_input{
+    margin: 10px 0;
+
+    /* Debugging styling */
+    /* background-color: pink;*/
+}
+
+#search_input input{
+    padding: 10px;
+    box-sizing: border-box;
+    width: 100%;
+    border: solid 1.5px rgba(0,0,0,0.5);
+    border-radius: 0.55em;
+    font-size: 1.1em;
+    outline-color: #1473E6;
+}
+
+/* Add location container styling */
+.add_location_container{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    background-color:#DEDEDE;
+    box-sizing: border-box;
+    margin: 10px 0;
+}
+
+.add_location_container span{
+    font-family: SFNS-Text-Regular;
+    letter-spacing: -0.075em;
+    font-size: 1.2em;
+}
+
+.add_location_container button{
+    background-color: #1473E6;
+    border: none;
+    box-sizing: border-box;
+    color: white;
+    border-radius: 0.75em;
+    padding: 10px 15px;
+    font-size: 1em;
+    font-family: SFNS-Display;
+}
+
+/* GPS Button styling */
+#add_gps_loc{
+    background-color: #1473E6;
+}
+
+#add_gps_loc span{
+    font-size: 1.5em;
+}
+
+#add_empty {
+  text-align: center;
+  font-family: SFNS-Display;
+  font-size: 1.5em;
+  border: none;
+  border-radius: 0.3em;
+  padding: 10px;
+  background-color: #E61414;
+  color: white;
+  opacity: 0.8;
+}

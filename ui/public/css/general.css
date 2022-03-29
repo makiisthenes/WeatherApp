@@ -1,0 +1,84 @@
+html, body{
+	height: 100vh;
+	padding: 0vh 1vh;
+	position: relative;
+	max-width: 450px;
+
+}
+
+/* Generalised classes CSS styling */
+.flex_parent{
+	display: flex;
+}
+
+.flex_vcenter{
+	align-items: center;
+}
+
+
+.flex_hbetween{
+	justify-content: space-between;
+}
+
+.main_button{
+	width: 100%;
+	padding: 10px;
+	box-sizing: border-box;
+	border:none;
+	border-radius: 0.5em
+}
+
+.back_button{
+	width:auto;
+	padding: 10px;
+	box-sizing: border-box;
+	border:none;
+	border-radius: 0.5em;
+	display: flex;
+	align-items: center;
+
+}
+
+.back_button img {
+	width: 28px;
+	cursor: pointer;
+}
+
+
+
+.back_font{
+	font-size: 1.45em
+}
+
+.abs{
+	position: absolute;
+}
+
+.right{
+	right: 0;
+}
+
+.left{
+	left: 0;
+}
+
+.top{
+	top:0;
+}
+
+.bottom{
+	bottom: 0;
+}
+
+.black_bg{
+	background-color: black;
+}
+
+.white_fg{
+	color: white;
+}
+
+.main_font{
+	font-family: SFNS-Display;
+
+}
