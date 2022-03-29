@@ -1,0 +1,52 @@
+Overall format for objects in Mongo OODBMS.
+
+// DB Objects are stored like this.
+
+{ 
+	id: 1,
+	location: {
+		lat: "24.3243",
+		lon: "52.1231",
+		location_name: "London,UK",
+		location_region: "London",
+		location_country: "UK",
+		location_tz_id : "GMT+0",
+		location_localtime_epoch: 216810651,
+		location_localtime: "12:34:21"
+		},
+	weather: {
+		preview: {
+			temp_no: "24",
+			temp_scalar: "C",
+			rain_chance: 14,
+			snow_chance: 2,
+			hashtag_desc : ["Sunny", "Calm", "Breezy"],
+			emoji_desc : {umbrella: true, clothing_rec: "🩳Shorts"},
+			weather_date: "24-02-2022",
+			date_req_epoch: 215656841
+		},
+		full: {
+			week_data: [
+				{
+				weather_date: "25-02-2022",
+				weather_status: "25C Sunny"
+				},
+				{
+				weather_date: "26-02-2022",
+				weather_status: "21C Calm"
+				},
+				{
+				weather_date: "27-02-2022",
+				weather_status: "19C Rainy"
+				},
+				{
+				weather_date: "28-02-2022",
+				weather_status: "28C Humid"
+				}
+			]
+		}
+		
+		
+	}
+
+}

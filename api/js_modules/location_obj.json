@@ -1,0 +1,454 @@
+[{"name": "Kabul", "region": "Kabol", "country": "Afghanistan", "lat": 34.52, "lon": 69.18, "tz_id": "Asia/Kabul", "localtime_epoch": 1647179569, "localtime": "2022-03-13 18:22"},
+
+{"name": "Tirana", "region": "Tirane", "country": "Albania", "lat": 41.33, "lon": 19.82, "tz_id": "Europe/Tirane", "localtime_epoch": 1647179577, "localtime": "2022-03-13 14:52"},
+
+{"name": "Alger", "region": "Alger", "country": "Algeria", "lat": 36.76, "lon": 3.05, "tz_id": "Africa/Algiers", "localtime_epoch": 1647179569, "localtime": "2022-03-13 14:52"},
+
+{"name": "Fagatogo", "region": "American Samoa", "country": "United States of America", "lat": -14.28, "lon": -170.69, "tz_id": "Pacific/Pago_Pago", "localtime_epoch": 1647179570, "localtime": "2022-03-13 2:52"},
+
+{"name": "Andorra", "region": "Andorra la Vella", "country": "Andorra", "lat": 42.5, "lon": 1.52, "tz_id": "Europe/Andorra", "localtime_epoch": 1647179570, "localtime": "2022-03-13 14:52"},
+
+{"name": "Luanda", "region": "Cuanza Norte", "country": "Angola", "lat": -8.84, "lon": 13.23, "tz_id": "Africa/Luanda", "localtime_epoch": 1647179570, "localtime": "2022-03-13 14:52"},
+
+{"name": "Bethel", "region": "", "country": "Anguilla", "lat": 18.2, "lon": -63.1, "tz_id": "America/Lower_Princes", "localtime_epoch": 1647179570, "localtime": "2022-03-13 9:52"},
+
+{"name": "Buenosaires", "region": "Bolivar Department", "country": "Colombia", "lat": 9.43, "lon": -74.74, "tz_id": "America/Bogota", "localtime_epoch": 1647179577, "localtime": "2022-03-13 8:52"},
+
+{"name": "Yerevan", "region": "Yerevan", "country": "Armenia", "lat": 40.18, "lon": 44.51, "tz_id": "Asia/Yerevan", "localtime_epoch": 1647179570, "localtime": "2022-03-13 17:52"},
+
+{"name": "Oranjestad", "region": "", "country": "Aruba", "lat": 12.52, "lon": -70.03, "tz_id": "America/Aruba", "localtime_epoch": 1647179570, "localtime": "2022-03-13 9:52"},
+
+{"name": "Canberra", "region": "Australian Capital Territory", "country": "Australia", "lat": -35.28, "lon": 149.22, "tz_id": "Australia/Sydney", "localtime_epoch": 1647179570, "localtime": "2022-03-14 0:52"},
+
+{"name": "Wien", "region": "Wien", "country": "Austria", "lat": 48.2, "lon": 16.37, "tz_id": "Europe/Vienna", "localtime_epoch": 1647179570, "localtime": "2022-03-13 14:52"},
+
+{"name": "Baku", "region": "Baki", "country": "Azerbaijan", "lat": 40.4, "lon": 49.88, "tz_id": "Asia/Baku", "localtime_epoch": 1647179570, "localtime": "2022-03-13 17:52"},
+
+{"name": "Nassau", "region": "New Providence", "country": "Bahamas", "lat": 25.08, "lon": -77.35, "tz_id": "America/Nassau", "localtime_epoch": 1647179570, "localtime": "2022-03-13 9:52"},
+
+{"name": "Manama", "region": "Al Manamah", "country": "Bahrain", "lat": 26.24, "lon": 50.58, "tz_id": "Asia/Bahrain", "localtime_epoch": 1647179578, "localtime": "2022-03-13 16:52"},
+
+{"name": "Dhaka", "region": "", "country": "Bangladesh", "lat": 23.72, "lon": 90.41, "tz_id": "Asia/Dhaka", "localtime_epoch": 1647179571, "localtime": "2022-03-13 19:52"},
+
+{"name": "Bridgetown", "region": "Saint Michael", "country": "Barbados", "lat": 13.1, "lon": -59.62, "tz_id": "America/Barbados", "localtime_epoch": 1647179571, "localtime": "2022-03-13 9:52"},
+
+{"name": "Minsk", "region": "Minsk", "country": "Belarus", "lat": 53.9, "lon": 27.57, "tz_id": "Europe/Minsk", "localtime_epoch": 1647179571, "localtime": "2022-03-13 16:52"},
+
+{"name": "Bruxelles", "region": "", "country": "Belgium", "lat": 50.83, "lon": 4.33, "tz_id": "Europe/Brussels", "localtime_epoch": 1647179571, "localtime": "2022-03-13 14:52"},
+
+{"name": "Belmopan", "region": "Cayo", "country": "Belize", "lat": 17.25, "lon": -88.77, "tz_id": "America/Belize", "localtime_epoch": 1647179571, "localtime": "2022-03-13 7:52"},
+
+{"name": "Porto-Novo", "region": "Oueme", "country": "Benin", "lat": 6.48, "lon": 2.62, "tz_id": "Africa/Porto-Novo", "localtime_epoch": 1647179578, "localtime": "2022-03-13 14:52"},
+
+{"name": "Hamilton", "region": "Hamilton", "country": "Bermuda", "lat": 32.29, "lon": -64.78, "tz_id": "Atlantic/Bermuda", "localtime_epoch": 1647179578, "localtime": "2022-03-13 10:52"},
+
+{"name": "Thimphu", "region": "Thimphu", "country": "Bhutan", "lat": 27.48, "lon": 89.6, "tz_id": "Asia/Thimphu", "localtime_epoch": 1647179578, "localtime": "2022-03-13 19:52"},
+
+{"name": "Lapaz", "region": "Antique", "country": "Philippines", "lat": 11.35, "lon": 122.06, "tz_id": "Asia/Manila", "localtime_epoch": 1647179578, "localtime": "2022-03-13 21:52"},
+
+{"name": "Sarajevo", "region": "", "country": "Bosnia and Herzegovina", "lat": 43.85, "lon": 18.38, "tz_id": "Europe/Sarajevo", "localtime_epoch": 1647179578, "localtime": "2022-03-13 14:52"},
+
+{"name": "Gaborone", "region": "South-East", "country": "Botswana", "lat": -24.65, "lon": 25.91, "tz_id": "Africa/Gaborone", "localtime_epoch": 1647179578, "localtime": "2022-03-13 15:52"},
+
+{"name": "Brazil", "region": "Indiana", "country": "USA United States of America", "lat": 39.53, "lon": -87.12, "tz_id": "America/Indiana/Indianapolis", "localtime_epoch": 1647179578, "localtime": "2022-03-13 9:52"},
+
+{"name": "Brunei", "region": "", "country": "Brunei Darussalam", "lat": 4.88, "lon": 114.93, "tz_id": "Asia/Brunei", "localtime_epoch": 1647179579, "localtime": "2022-03-13 21:52"},
+
+{"name": "Sofia", "region": "Grad Sofiya", "country": "Bulgaria", "lat": 42.68, "lon": 23.32, "tz_id": "Europe/Sofia", "localtime_epoch": 1647179579, "localtime": "2022-03-13 15:52"},
+
+{"name": "Ouagadougou", "region": "Kadiogo", "country": "Burkina Faso", "lat": 12.37, "lon": -1.52, "tz_id": "Africa/Ouagadougou", "localtime_epoch": 1647179579, "localtime": "2022-03-13 13:52"},
+
+{"name": "Bujumbura", "region": "Bujumbura", "country": "Burundi", "lat": -3.38, "lon": 29.36, "tz_id": "Africa/Bujumbura", "localtime_epoch": 1647179579, "localtime": "2022-03-13 15:52"},
+
+{"name": "Takeo", "region": "Takeo", "country": "Cambodia", "lat": 10.98, "lon": 104.78, "tz_id": "Asia/Phnom_Penh", "localtime_epoch": 1647179579, "localtime": "2022-03-13 20:52"},
+
+{"name": "Ngaoundere", "region": "Adamaoua", "country": "Cameroon", "lat": 7.32, "lon": 13.58, "tz_id": "Africa/Douala", "localtime_epoch": 1647179579, "localtime": "2022-03-13 14:52"},
+
+{"name": "Ottawa", "region": "Ontario", "country": "Canada", "lat": 45.42, "lon": -75.7, "tz_id": "America/Toronto", "localtime_epoch": 1647179579, "localtime": "2022-03-13 9:52"},
+
+{"name": "Praia", "region": "Praia", "country": "Cape Verde", "lat": 14.93, "lon": -23.51, "tz_id": "Atlantic/Cape_Verde", "localtime_epoch": 1647179579, "localtime": "2022-03-13 12:52"},
+
+{"name": "Georgetown", "region": "", "country": "Saint Helena", "lat": -7.93, "lon": -14.42, "tz_id": "Atlantic/St_Helena", "localtime_epoch": 1647179579, "localtime": "2022-03-13 13:52"},
+
+{"name": "Bangui", "region": "Bangui", "country": "Central African Republic", "lat": 4.37, "lon": 18.58, "tz_id": "Africa/Bangui", "localtime_epoch": 1647179579, "localtime": "2022-03-13 14:52"},
+
+{"name": "Chad", "region": "Kentucky", "country": "USA United States of America", "lat": 36.98, "lon": -82.99, "tz_id": "America/New_York", "localtime_epoch": 1647179579, "localtime": "2022-03-13 9:52"},
+
+{"name": "Antofagasta", "region": "Antofagasta", "country": "Chile", "lat": -23.65, "lon": -70.4, "tz_id": "America/Santiago", "localtime_epoch": 1647179580, "localtime": "2022-03-13 10:53"},
+
+{"name": "Peking", "region": "Beijing", "country": "China", "lat": 39.93, "lon": 116.39, "tz_id": "Asia/Shanghai", "localtime_epoch": 1647179580, "localtime": "2022-03-13 21:53"},
+
+{"name": "Bantam Village", "region": "", "country": "Cocos (Keeling) Islands", "lat": -12.12, "lon": 96.88, "tz_id": "Indian/Cocos", "localtime_epoch": 1647179580, "localtime": "2022-03-13 20:23"},
+
+{"name": "Bo Colombia", "region": "Puerto Rico", "country": "USA United States of America", "lat": 18.2, "lon": -67.15, "tz_id": "America/Puerto_Rico", "localtime_epoch": 1647179580, "localtime": "2022-03-13 9:53"},
+
+{"name": "Moroni", "region": "Grande Comore", "country": "Comoros", "lat": -11.7, "lon": 43.24, "tz_id": "Indian/Comoro", "localtime_epoch": 1647179580, "localtime": "2022-03-13 16:53"},
+
+{"name": "Brazzaville", "region": "Brazzaville", "country": "Congo", "lat": -4.26, "lon": 15.28, "tz_id": "Africa/Brazzaville", "localtime_epoch": 1647179580, "localtime": "2022-03-13 14:53"},
+
+{"name": "Avarua", "region": "", "country": "Cook Island", "lat": -21.21, "lon": -159.78, "tz_id": "Pacific/Rarotonga", "localtime_epoch": 1647179580, "localtime": "2022-03-13 3:53"},
+
+{"name": "Costarica", "region": "Valle del Cauca", "country": "Colombia", "lat": 3.77, "lon": -76.04, "tz_id": "America/Bogota", "localtime_epoch": 1647179580, "localtime": "2022-03-13 8:53"},
+
+{"name": "Zagreb", "region": "Grad Zagreb", "country": "Croatia", "lat": 45.8, "lon": 16.0, "tz_id": "Europe/Zagreb", "localtime_epoch": 1647179580, "localtime": "2022-03-13 14:53"},
+
+{"name": "Cuba", "region": "New York", "country": "USA United States of America", "lat": 42.21, "lon": -78.27, "tz_id": "America/New_York", "localtime_epoch": 1647179580, "localtime": "2022-03-13 9:53"},
+
+{"name": "Nicosia", "region": "Nicosia", "country": "Cyprus", "lat": 35.17, "lon": 33.37, "tz_id": "Asia/Nicosia", "localtime_epoch": 1647179581, "localtime": "2022-03-13 15:53"},
+
+{"name": "Praha", "region": "Texas", "country": "USA United States of America", "lat": 29.69, "lon": -97.11, "tz_id": "America/Chicago", "localtime_epoch": 1647179581, "localtime": "2022-03-13 8:53"},
+
+{"name": "Copenhagen", "region": "Hovedstaden", "country": "Denmark", "lat": 55.67, "lon": 12.58, "tz_id": "Europe/Copenhagen", "localtime_epoch": 1647179581, "localtime": "2022-03-13 14:53"},
+
+{"name": "Djibouti", "region": "Ali Sabieh", "country": "Djibouti", "lat": 11.6, "lon": 43.15, "tz_id": "Africa/Djibouti", "localtime_epoch": 1647179581, "localtime": "2022-03-13 16:53"},
+
+{"name": "Roseau", "region": "Saint George", "country": "Dominica", "lat": 15.3, "lon": -61.4, "tz_id": "America/Dominica", "localtime_epoch": 1647179581, "localtime": "2022-03-13 9:53"},
+
+{"name": "Dili", "region": "Marinduque", "country": "Philippines", "lat": 13.33, "lon": 121.84, "tz_id": "Asia/Manila", "localtime_epoch": 1647179581, "localtime": "2022-03-13 21:53"},
+
+{"name": "Quito", "region": "Pichincha", "country": "Ecuador", "lat": -0.22, "lon": -78.5, "tz_id": "America/Guayaquil", "localtime_epoch": 1647179581, "localtime": "2022-03-13 8:53"},
+
+{"name": "Cairo", "region": "Al Qahirah", "country": "Egypt", "lat": 30.05, "lon": 31.25, "tz_id": "Africa/Cairo", "localtime_epoch": 1647179581, "localtime": "2022-03-13 15:53"},
+
+{"name": "England", "region": "Oppland", "country": "Norway", "lat": 61.23, "lon": 10.2, "tz_id": "Europe/Oslo", "localtime_epoch": 1647179582, "localtime": "2022-03-13 14:53"},
+
+{"name": "Malabo", "region": "Batangas", "country": "Philippines", "lat": 13.71, "lon": 121.27, "tz_id": "Asia/Manila", "localtime_epoch": 1647179582, "localtime": "2022-03-13 21:53"},
+
+{"name": "Asmara", "region": "", "country": "Eritrea", "lat": 15.33, "lon": 38.93, "tz_id": "Africa/Asmara", "localtime_epoch": 1647179582, "localtime": "2022-03-13 16:53"},
+
+{"name": "Tallinn", "region": "Harjumaa", "country": "Estonia", "lat": 59.43, "lon": 24.73, "tz_id": "Europe/Tallinn", "localtime_epoch": 1647179582, "localtime": "2022-03-13 15:53"},
+
+{"name": "Awassa", "region": "", "country": "Ethiopia", "lat": 7.05, "lon": 38.47, "tz_id": "Africa/Addis_Ababa", "localtime_epoch": 1647179582, "localtime": "2022-03-13 16:53"},
+
+{"name": "Stanley", "region": "", "country": "Hong Kong", "lat": 22.22, "lon": 114.2, "tz_id": "Asia/Shanghai", "localtime_epoch": 1647179582, "localtime": "2022-03-13 21:53"},
+
+{"name": "Suva Gora", "region": "", "country": "Montenegro", "lat": 42.77, "lon": 19.64, "tz_id": "Europe/Podgorica", "localtime_epoch": 1647179582, "localtime": "2022-03-13 14:53"},
+
+{"name": "Helsingfors", "region": "Southern Finland", "country": "Finland", "lat": 60.18, "lon": 24.93, "tz_id": "Europe/Helsinki", "localtime_epoch": 1647179583, "localtime": "2022-03-13 15:53"},
+
+{"name": "Paris", "region": "Ile-de-France", "country": "France", "lat": 48.87, "lon": 2.33, "tz_id": "Europe/Paris", "localtime_epoch": 1647179583, "localtime": "2022-03-13 14:53"},
+
+{"name": "Cayenne", "region": "", "country": "French Guiana", "lat": 4.93, "lon": -52.33, "tz_id": "America/Cayenne", "localtime_epoch": 1647179583, "localtime": "2022-03-13 10:53"},
+
+{"name": "Papeete", "region": "", "country": "French Polynesia Islands", "lat": -17.53, "lon": -149.57, "tz_id": "Pacific/Tahiti", "localtime_epoch": 1647179583, "localtime": "2022-03-13 3:53"},
+
+{"name": "Libreville", "region": "Estuaire", "country": "Gabon", "lat": 0.38, "lon": 9.45, "tz_id": "Africa/Libreville", "localtime_epoch": 1647179583, "localtime": "2022-03-13 14:53"},
+
+{"name": "Banjul", "region": "Banjul", "country": "Gambia", "lat": 13.45, "lon": -16.58, "tz_id": "Africa/Banjul", "localtime_epoch": 1647179583, "localtime": "2022-03-13 13:53"},
+
+{"name": "Tbilisi", "region": "Dushet'is Raioni", "country": "Georgia", "lat": 41.73, "lon": 44.79, "tz_id": "Asia/Tbilisi", "localtime_epoch": 1647179583, "localtime": "2022-03-13 17:53"},
+
+{"name": "Berlin", "region": "Berlin", "country": "Germany", "lat": 52.52, "lon": 13.4, "tz_id": "Europe/Berlin", "localtime_epoch": 1647179583, "localtime": "2022-03-13 14:53"},
+
+{"name": "Accra", "region": "Greater Accra", "country": "Ghana", "lat": 5.55, "lon": -0.22, "tz_id": "Africa/Accra", "localtime_epoch": 1647179583, "localtime": "2022-03-13 13:53"},
+
+{"name": "Gibraltar", "region": "", "country": "Gibraltar", "lat": 36.13, "lon": -5.35, "tz_id": "Europe/Madrid", "localtime_epoch": 1647179583, "localtime": "2022-03-13 14:53"},
+
+{"name": "Greece", "region": "New York", "country": "USA United States of America", "lat": 43.26, "lon": -77.67, "tz_id": "America/New_York", "localtime_epoch": 1647179583, "localtime": "2022-03-13 9:53"},
+
+{"name": "Nuuk", "region": "Vestgronland", "country": "Greenland", "lat": 64.18, "lon": -51.75, "tz_id": "America/Nuuk", "localtime_epoch": 1647179584, "localtime": "2022-03-13 10:53"},
+
+{"name": "Grenada City", "region": "Saint George", "country": "Grenada", "lat": 12.05, "lon": -61.75, "tz_id": "America/Grenada", "localtime_epoch": 1647179584, "localtime": "2022-03-13 9:53"},
+
+{"name": "Basse-Terre", "region": "", "country": "Guadeloupe", "lat": 16.0, "lon": -61.72, "tz_id": "America/Guadeloupe", "localtime_epoch": 1647179584, "localtime": "2022-03-13 9:53"},
+
+{"name": "Aga", "region": "Kutahya", "country": "Turkey", "lat": 39.48, "lon": 29.38, "tz_id": "Europe/Istanbul", "localtime_epoch": 1647179584, "localtime": "2022-03-13 16:53"},
+
+{"name": "Guatemala", "region": "Guatemala", "country": "Guatemala", "lat": 14.62, "lon": -90.53, "tz_id": "America/Guatemala", "localtime_epoch": 1647179584, "localtime": "2022-03-13 7:53"},
+
+{"name": "Conakry", "region": "Conakry", "country": "Guinea", "lat": 9.51, "lon": -13.71, "tz_id": "Africa/Conakry", "localtime_epoch": 1647179584, "localtime": "2022-03-13 13:53"},
+
+{"name": "Bissau", "region": "Bissau", "country": "Guinea-Bissau", "lat": 11.85, "lon": -15.58, "tz_id": "Africa/Bissau", "localtime_epoch": 1647179584, "localtime": "2022-03-13 13:53"},
+
+{"name": "Georgetown", "region": "Demerara-Mahaica", "country": "Guyana", "lat": 6.8, "lon": -58.17, "tz_id": "America/Guyana", "localtime_epoch": 1647179584, "localtime": "2022-03-13 9:53"},
+
+{"name": "Port-Au-Prince", "region": "Ouest", "country": "Haiti", "lat": 18.54, "lon": -72.34, "tz_id": "America/Port-au-Prince", "localtime_epoch": 1647179584, "localtime": "2022-03-13 9:53"},
+
+{"name": "Tegucigalpa", "region": "Francisco Morazan", "country": "Honduras", "lat": 14.1, "lon": -87.22, "tz_id": "America/Tegucigalpa", "localtime_epoch": 1647179585, "localtime": "2022-03-13 7:53"},
+
+{"name": "Victoria Valley", "region": "Victoria", "country": "Australia", "lat": -37.55, "lon": 142.33, "tz_id": "Australia/Melbourne", "localtime_epoch": 1647179585, "localtime": "2022-03-14 0:53"},
+
+{"name": "Budapest", "region": "Budapest", "country": "Hungary", "lat": 47.5, "lon": 19.08, "tz_id": "Europe/Budapest", "localtime_epoch": 1647179585, "localtime": "2022-03-13 14:53"},
+
+{"name": "Akureyri", "region": "Eyjafjardarsysla", "country": "Iceland", "lat": 65.67, "lon": -18.1, "tz_id": "Atlantic/Reykjavik", "localtime_epoch": 1647179585, "localtime": "2022-03-13 13:53"},
+
+{"name": "Villa India", "region": "Puerto Rico", "country": "USA United States of America", "lat": 18.2, "lon": -67.15, "tz_id": "America/Puerto_Rico", "localtime_epoch": 1647179585, "localtime": "2022-03-13 9:53"},
+
+{"name": "Jakarta", "region": "Jakarta Raya", "country": "Indonesia", "lat": -6.21, "lon": 106.85, "tz_id": "Asia/Jakarta", "localtime_epoch": 1647179585, "localtime": "2022-03-13 20:53"},
+
+{"name": "Tehran", "region": "Tehran", "country": "Iran", "lat": 35.73, "lon": 51.33, "tz_id": "Asia/Tehran", "localtime_epoch": 1647179585, "localtime": "2022-03-13 17:23"},
+
+{"name": "Baghdad", "region": "Baghdad", "country": "Iraq", "lat": 33.34, "lon": 44.39, "tz_id": "Asia/Baghdad", "localtime_epoch": 1647179585, "localtime": "2022-03-13 16:53"},
+
+{"name": "Dublin", "region": "Dublin", "country": "Ireland", "lat": 53.33, "lon": -6.25, "tz_id": "Europe/Dublin", "localtime_epoch": 1647179585, "localtime": "2022-03-13 13:53"},
+
+{"name": "Jerusalem", "region": "Yerushalayim", "country": "Israel", "lat": 31.78, "lon": 35.23, "tz_id": "Asia/Jerusalem", "localtime_epoch": 1647179585, "localtime": "2022-03-13 15:53"},
+
+{"name": "Roma", "region": "Lazio", "country": "Italy", "lat": 41.9, "lon": 12.48, "tz_id": "Europe/Rome", "localtime_epoch": 1647179585, "localtime": "2022-03-13 14:53"},
+
+{"name": "Yamoussoukro", "region": "N'zi-Comoe", "country": "Cote d'Ivoire", "lat": 6.82, "lon": -5.28, "tz_id": "Africa/Abidjan", "localtime_epoch": 1647179585, "localtime": "2022-03-13 13:53"},
+
+{"name": "Kingston", "region": "Saint Andrew", "country": "Jamaica", "lat": 18.0, "lon": -76.8, "tz_id": "America/Jamaica", "localtime_epoch": 1647179586, "localtime": "2022-03-13 8:53"},
+
+{"name": "Tokyo", "region": "Tokyo", "country": "Japan", "lat": 35.69, "lon": 139.69, "tz_id": "Asia/Tokyo", "localtime_epoch": 1647179586, "localtime": "2022-03-13 22:53"},
+
+{"name": "Amman", "region": "Amman Governorate", "country": "Jordan", "lat": 31.95, "lon": 35.93, "tz_id": "Asia/Amman", "localtime_epoch": 1647179586, "localtime": "2022-03-13 16:53"},
+
+{"name": "Astana", "region": "Astana", "country": "Kazakhstan", "lat": 51.18, "lon": 71.43, "tz_id": "Asia/Almaty", "localtime_epoch": 1647179586, "localtime": "2022-03-13 19:53"},
+
+{"name": "Nairobi", "region": "Nairobi Area", "country": "Kenya", "lat": -1.28, "lon": 36.82, "tz_id": "Africa/Nairobi", "localtime_epoch": 1647179586, "localtime": "2022-03-13 16:53"},
+
+{"name": "Bairiki", "region": "", "country": "Kiribati", "lat": 1.32, "lon": 172.97, "tz_id": "Pacific/Tarawa", "localtime_epoch": 1647179586, "localtime": "2022-03-14 1:53"},
+
+{"name": "Kuwait", "region": "Al Kuwayt", "country": "Kuwait", "lat": 29.37, "lon": 47.98, "tz_id": "Asia/Kuwait", "localtime_epoch": 1647179586, "localtime": "2022-03-13 16:53"},
+
+{"name": "Bishkek", "region": "Bishkek", "country": "Kyrghyzstan", "lat": 42.87, "lon": 74.6, "tz_id": "Asia/Bishkek", "localtime_epoch": 1647179586, "localtime": "2022-03-13 19:53"},
+
+{"name": "Laos", "region": "East Java", "country": "Indonesia", "lat": -8.18, "lon": 114.32, "tz_id": "Asia/Jakarta", "localtime_epoch": 1647179586, "localtime": "2022-03-13 20:53"},
+
+{"name": "Riga", "region": "Riga", "country": "Latvia", "lat": 56.95, "lon": 24.1, "tz_id": "Europe/Riga", "localtime_epoch": 1647179586, "localtime": "2022-03-13 15:53"},
+
+{"name": "Beirut", "region": "Beyrouth", "country": "Lebanon", "lat": 33.87, "lon": 35.51, "tz_id": "Asia/Beirut", "localtime_epoch": 1647179586, "localtime": "2022-03-13 15:53"},
+
+{"name": "Maseru", "region": "Maseru", "country": "Lesotho", "lat": -29.32, "lon": 27.48, "tz_id": "Africa/Johannesburg", "localtime_epoch": 1647179587, "localtime": "2022-03-13 15:53"},
+
+{"name": "Monrovia", "region": "Montserrado", "country": "Liberia", "lat": 6.31, "lon": -10.8, "tz_id": "Africa/Monrovia", "localtime_epoch": 1647179587, "localtime": "2022-03-13 13:53"},
+
+{"name": "Tripoli", "region": "Tarabulus", "country": "Libya", "lat": 32.89, "lon": 13.18, "tz_id": "Africa/Tripoli", "localtime_epoch": 1647179587, "localtime": "2022-03-13 15:53"},
+
+{"name": "Vaduz", "region": "Vaduz", "country": "Liechtenstein", "lat": 47.13, "lon": 9.52, "tz_id": "Europe/Zurich", "localtime_epoch": 1647179587, "localtime": "2022-03-13 14:53"},
+
+{"name": "Vilnius", "region": "Vilniaus Apskritis", "country": "Lithuania", "lat": 54.68, "lon": 25.32, "tz_id": "Europe/Vilnius", "localtime_epoch": 1647179587, "localtime": "2022-03-13 15:53"},
+
+{"name": "Luxemburg", "region": "Luxembourg", "country": "Luxembourg", "lat": 49.61, "lon": 6.13, "tz_id": "Europe/Luxembourg", "localtime_epoch": 1647179587, "localtime": "2022-03-13 14:53"},
+
+{"name": "Macao", "region": "Amazonas", "country": "Brazil", "lat": -7.45, "lon": -70.55, "tz_id": "America/Porto_Velho", "localtime_epoch": 1647179587, "localtime": "2022-03-13 9:53"},
+
+{"name": "Skopje", "region": "Karpos", "country": "Macedonia", "lat": 42.0, "lon": 21.43, "tz_id": "Europe/Skopje", "localtime_epoch": 1647179587, "localtime": "2022-03-13 14:53"},
+
+{"name": "Antananarivo", "region": "Antananarivo", "country": "Madagascar", "lat": -18.92, "lon": 47.52, "tz_id": "Indian/Antananarivo", "localtime_epoch": 1647179587, "localtime": "2022-03-13 16:53"},
+
+{"name": "Lilongwe", "region": "Lilongwe", "country": "Malawi", "lat": -13.98, "lon": 33.78, "tz_id": "Africa/Blantyre", "localtime_epoch": 1647179587, "localtime": "2022-03-13 15:53"},
+
+{"name": "Ipoh", "region": "Perak", "country": "Malaysia", "lat": 4.58, "lon": 101.08, "tz_id": "Asia/Kuala_Lumpur", "localtime_epoch": 1647179587, "localtime": "2022-03-13 21:53"},
+
+{"name": "Male", "region": "Maale", "country": "Maldives", "lat": 4.17, "lon": 73.5, "tz_id": "Indian/Maldives", "localtime_epoch": 1647179587, "localtime": "2022-03-13 18:53"},
+
+{"name": "Bamako", "region": "Bamako", "country": "Mali", "lat": 12.65, "lon": -8.0, "tz_id": "Africa/Bamako", "localtime_epoch": 1647179588, "localtime": "2022-03-13 13:53"},
+
+{"name": "Valletta", "region": "", "country": "Malta", "lat": 35.9, "lon": 14.51, "tz_id": "Europe/Malta", "localtime_epoch": 1647179588, "localtime": "2022-03-13 14:53"},
+
+{"name": "Darrit", "region": "", "country": "Äthiopien", "lat": 4.37, "lon": 38.07, "tz_id": "Africa/Addis_Ababa", "localtime_epoch": 1647179588, "localtime": "2022-03-13 16:53"},
+
+{"name": "Fort-De-France", "region": "", "country": "Martinique", "lat": 14.6, "lon": -61.08, "tz_id": "America/Martinique", "localtime_epoch": 1647179588, "localtime": "2022-03-13 9:53"},
+
+{"name": "Nouakchott", "region": "Trarza", "country": "Mauritania", "lat": 18.09, "lon": -15.98, "tz_id": "Africa/Nouakchott", "localtime_epoch": 1647179588, "localtime": "2022-03-13 13:53"},
+
+{"name": "Port Louis", "region": "Port Louis", "country": "Mauritius", "lat": -20.16, "lon": 57.5, "tz_id": "Indian/Mauritius", "localtime_epoch": 1647179588, "localtime": "2022-03-13 17:53"},
+
+{"name": "Mamoutzou", "region": "", "country": "Mayotte", "lat": -12.78, "lon": 45.23, "tz_id": "Indian/Mayotte", "localtime_epoch": 1647179588, "localtime": "2022-03-13 16:53"},
+
+{"name": "Mexico", "region": "Pennsylvania", "country": "USA United States of America", "lat": 40.54, "lon": -77.35, "tz_id": "America/New_York", "localtime_epoch": 1647179588, "localtime": "2022-03-13 9:53"},
+
+{"name": "Palikir", "region": "Pohnpei", "country": "Micronesia", "lat": 6.92, "lon": 158.15, "tz_id": "Pacific/Pohnpei", "localtime_epoch": 1647179588, "localtime": "2022-03-14 0:53"},
+
+{"name": "Chisinau", "region": "Gagauzia", "country": "Moldova", "lat": 47.01, "lon": 28.86, "tz_id": "Europe/Chisinau", "localtime_epoch": 1647179588, "localtime": "2022-03-13 15:53"},
+
+{"name": "Monaco-Ville", "region": "", "country": "Monaco", "lat": 43.73, "lon": 7.42, "tz_id": "Africa/Algiers", "localtime_epoch": 1647179589, "localtime": "2022-03-13 14:53"},
+
+{"name": "Ulaanbaatar", "region": "Ulaanbaatar", "country": "Mongolia", "lat": 47.92, "lon": 106.92, "tz_id": "Asia/Ulaanbaatar", "localtime_epoch": 1647179589, "localtime": "2022-03-13 21:53"},
+
+{"name": "Podgorica", "region": "", "country": "Montenegro", "lat": 42.44, "lon": 19.26, "tz_id": "Europe/Podgorica", "localtime_epoch": 1647179589, "localtime": "2022-03-13 14:53"},
+
+{"name": "Plymouth", "region": "Saint Anthony", "country": "Montserrat", "lat": 16.7, "lon": -62.22, "tz_id": "America/Danmarkshavn", "localtime_epoch": 1647179589, "localtime": "2022-03-13 13:53"},
+
+{"name": "Rabat", "region": "", "country": "Morocco", "lat": 34.03, "lon": -6.84, "tz_id": "Africa/Casablanca", "localtime_epoch": 1647179589, "localtime": "2022-03-13 14:53"},
+
+{"name": "Maputo", "region": "Maputo", "country": "Mozambique", "lat": -25.97, "lon": 32.59, "tz_id": "Africa/Maputo", "localtime_epoch": 1647179589, "localtime": "2022-03-13 15:53"},
+
+{"name": "Rangoon", "region": "Yangon", "country": "Myanmar", "lat": 16.78, "lon": 96.17, "tz_id": "Asia/Yangon", "localtime_epoch": 1647179589, "localtime": "2022-03-13 20:23"},
+
+{"name": "Windhoek", "region": "Windhoek", "country": "Namibia", "lat": -22.57, "lon": 17.08, "tz_id": "Africa/Windhoek", "localtime_epoch": 1647179589, "localtime": "2022-03-13 15:53"},
+
+{"name": "Yaren", "region": "Balikesir", "country": "Turkey", "lat": 39.55, "lon": 27.62, "tz_id": "Europe/Istanbul", "localtime_epoch": 1647179589, "localtime": "2022-03-13 16:53"},
+
+{"name": "Kathmandu", "region": "", "country": "Nepal", "lat": 27.72, "lon": 85.32, "tz_id": "Asia/Kathmandu", "localtime_epoch": 1647179589, "localtime": "2022-03-13 19:38"},
+
+{"name": "Amsterdam", "region": "North Holland", "country": "Netherlands", "lat": 52.37, "lon": 4.89, "tz_id": "Europe/Amsterdam", "localtime_epoch": 1647179589, "localtime": "2022-03-13 14:53"},
+
+{"name": "Willemstad", "region": "", "country": "Netherlands Antilles", "lat": 12.1, "lon": -68.92, "tz_id": "America/Curacao", "localtime_epoch": 1647179590, "localtime": "2022-03-13 9:53"},
+
+{"name": "Oulad Noum", "region": "", "country": "Morocco", "lat": 32.28, "lon": -8.0, "tz_id": "Africa/Casablanca", "localtime_epoch": 1647179590, "localtime": "2022-03-13 14:53"},
+
+{"name": "Wellington", "region": "", "country": "New Zealand", "lat": -41.3, "lon": 174.78, "tz_id": "Pacific/Auckland", "localtime_epoch": 1647179590, "localtime": "2022-03-14 2:53"},
+
+{"name": "Managua", "region": "Managua", "country": "Nicaragua", "lat": 12.15, "lon": -86.27, "tz_id": "America/Managua", "localtime_epoch": 1647179590, "localtime": "2022-03-13 7:53"},
+
+{"name": "Niamey", "region": "Niamey", "country": "Niger", "lat": 13.52, "lon": 2.12, "tz_id": "Africa/Niamey", "localtime_epoch": 1647179590, "localtime": "2022-03-13 14:53"},
+
+{"name": "Abuja", "region": "Federal Capital Territory", "country": "Nigeria", "lat": 9.18, "lon": 7.18, "tz_id": "Africa/Lagos", "localtime_epoch": 1647179590, "localtime": "2022-03-13 14:53"},
+
+{"name": "Alofi", "region": "", "country": "Niue", "lat": -19.02, "lon": -169.92, "tz_id": "Pacific/Niue", "localtime_epoch": 1647179590, "localtime": "2022-03-13 2:53"},
+
+{"name": "Kingston", "region": "", "country": "New Zealand", "lat": -45.33, "lon": 168.7, "tz_id": "Pacific/Auckland", "localtime_epoch": 1647179590, "localtime": "2022-03-14 2:53"},
+
+{"name": "Pyongyang", "region": "", "country": "North Korea", "lat": 39.02, "lon": 125.75, "tz_id": "Asia/Pyongyang", "localtime_epoch": 1647179590, "localtime": "2022-03-13 22:53"},
+
+{"name": "Belfast", "region": "Belfast", "country": "United Kingdom", "lat": 54.58, "lon": -5.93, "tz_id": "Europe/London", "localtime_epoch": 1647179590, "localtime": "2022-03-13 13:53"},
+
+{"name": "Garapan", "region": "West Java", "country": "Indonesia", "lat": -6.04, "lon": 106.67, "tz_id": "Asia/Jakarta", "localtime_epoch": 1647179590, "localtime": "2022-03-13 20:53"},
+
+{"name": "Oslo", "region": "Oslo", "country": "Norway", "lat": 59.92, "lon": 10.75, "tz_id": "Europe/Oslo", "localtime_epoch": 1647179591, "localtime": "2022-03-13 14:53"},
+
+{"name": "Masqat", "region": "Masqat", "country": "Oman", "lat": 23.61, "lon": 58.59, "tz_id": "Asia/Muscat", "localtime_epoch": 1647179591, "localtime": "2022-03-13 17:53"},
+
+{"name": "Islamabad", "region": "Islamabad", "country": "Pakistan", "lat": 33.7, "lon": 73.17, "tz_id": "Asia/Karachi", "localtime_epoch": 1647179591, "localtime": "2022-03-13 18:53"},
+
+{"name": "Koror", "region": "", "country": "Palau", "lat": 7.33, "lon": 134.48, "tz_id": "Pacific/Palau", "localtime_epoch": 1647179591, "localtime": "2022-03-13 22:53"},
+
+{"name": "Gaza", "region": "", "country": "Palestine", "lat": 31.5, "lon": 34.47, "tz_id": "Asia/Gaza", "localtime_epoch": 1647179591, "localtime": "2022-03-13 15:53"},
+
+{"name": "Panama", "region": "Panama", "country": "Panama", "lat": 8.97, "lon": -79.53, "tz_id": "America/Panama", "localtime_epoch": 1647179591, "localtime": "2022-03-13 8:53"},
+
+{"name": "Sartorio", "region": "Alto Paraguay", "country": "Paraguay", "lat": -21.98, "lon": -58.43, "tz_id": "America/Asuncion", "localtime_epoch": 1647179591, "localtime": "2022-03-13 10:53"},
+
+{"name": "Lima", "region": "Lima", "country": "Peru", "lat": -12.05, "lon": -77.05, "tz_id": "America/Lima", "localtime_epoch": 1647179591, "localtime": "2022-03-13 8:53"},
+
+{"name": "Manila", "region": "Manila", "country": "Philippines", "lat": 14.6, "lon": 120.98, "tz_id": "Asia/Manila", "localtime_epoch": 1647179591, "localtime": "2022-03-13 21:53"},
+
+{"name": "Adamstown", "region": "", "country": "Pitcairn Island", "lat": -25.07, "lon": -130.08, "tz_id": "Pacific/Pitcairn", "localtime_epoch": 1647179592, "localtime": "2022-03-13 5:53"},
+
+{"name": "Warszawa", "region": "", "country": "Poland", "lat": 52.25, "lon": 21.0, "tz_id": "Europe/Warsaw", "localtime_epoch": 1647179592, "localtime": "2022-03-13 14:53"},
+
+{"name": "Lisboa", "region": "Lisboa", "country": "Portugal", "lat": 38.72, "lon": -9.13, "tz_id": "Europe/Lisbon", "localtime_epoch": 1647179592, "localtime": "2022-03-13 13:53"},
+
+{"name": "Sanjuan", "region": "", "country": "韩国", "lat": 34.72, "lon": 127.99, "tz_id": "Asia/Seoul", "localtime_epoch": 1647179592, "localtime": "2022-03-13 22:53"},
+
+{"name": "Doha", "region": "Ad Dawhah", "country": "Qatar", "lat": 25.29, "lon": 51.53, "tz_id": "Asia/Qatar", "localtime_epoch": 1647179592, "localtime": "2022-03-13 16:53"},
+
+{"name": "Saint-Denis", "region": "", "country": "Reunion and associated islands", "lat": -20.87, "lon": 55.47, "tz_id": "Indian/Reunion", "localtime_epoch": 1647179592, "localtime": "2022-03-13 17:53"},
+
+{"name": "Bucuresti", "region": "Bucuresti", "country": "Romania", "lat": 44.43, "lon": 26.1, "tz_id": "Europe/Bucharest", "localtime_epoch": 1647179592, "localtime": "2022-03-13 15:53"},
+
+{"name": "Moscow", "region": "Moscow City", "country": "Russia", "lat": 55.75, "lon": 37.62, "tz_id": "Europe/Moscow", "localtime_epoch": 1647179592, "localtime": "2022-03-13 16:53"},
+
+{"name": "Kigali", "region": "Kigali", "country": "Rwanda", "lat": -1.95, "lon": 30.06, "tz_id": "Africa/Kigali", "localtime_epoch": 1647179592, "localtime": "2022-03-13 15:53"},
+
+{"name": "Jamestown", "region": "", "country": "Saint Helena", "lat": -15.93, "lon": -5.72, "tz_id": "Atlantic/St_Helena", "localtime_epoch": 1647179592, "localtime": "2022-03-13 13:53"},
+
+{"name": "Basseterre", "region": "Saint George Basseterre", "country": "Saint Kitts and Nevis", "lat": 17.3, "lon": -62.72, "tz_id": "America/St_Kitts", "localtime_epoch": 1647179592, "localtime": "2022-03-13 9:53"},
+
+{"name": "Castries", "region": "Castries", "country": "Saint Lucia", "lat": 14.0, "lon": -61.0, "tz_id": "America/St_Lucia", "localtime_epoch": 1647179593, "localtime": "2022-03-13 9:53"},
+
+{"name": "Saint-Pierre", "region": "", "country": "Saint Pierre and Miquelon", "lat": 46.77, "lon": -56.18, "tz_id": "America/Glace_Bay", "localtime_epoch": 1647179593, "localtime": "2022-03-13 10:53"},
+
+{"name": "Kingstown", "region": "Dublin", "country": "Ireland", "lat": 53.29, "lon": -6.13, "tz_id": "Europe/Dublin", "localtime_epoch": 1647179593, "localtime": "2022-03-13 13:53"},
+
+{"name": "Apia", "region": "", "country": "Samoa", "lat": -13.83, "lon": -171.73, "tz_id": "Pacific/Apia", "localtime_epoch": 1647179593, "localtime": "2022-03-14 2:53"},
+
+{"name": "S-Charl", "region": "", "country": "Switzerland", "lat": 46.72, "lon": 10.33, "tz_id": "Europe/Rome", "localtime_epoch": 1647179593, "localtime": "2022-03-13 14:53"},
+
+{"name": "Riyadh", "region": "At Ta'mim", "country": "Iraq", "lat": 35.3, "lon": 43.92, "tz_id": "Asia/Baghdad", "localtime_epoch": 1647179593, "localtime": "2022-03-13 16:53"},
+
+{"name": "Scotland", "region": "Belize", "country": "Belize", "lat": 17.57, "lon": -88.52, "tz_id": "America/Belize", "localtime_epoch": 1647179593, "localtime": "2022-03-13 7:53"},
+
+{"name": "Dakar", "region": "Dakar", "country": "Senegal", "lat": 14.67, "lon": -17.44, "tz_id": "Africa/Dakar", "localtime_epoch": 1647179593, "localtime": "2022-03-13 13:53"},
+
+{"name": "Belgrade", "region": "Central Serbia", "country": "Serbia", "lat": 44.8, "lon": 20.47, "tz_id": "Europe/Belgrade", "localtime_epoch": 1647179593, "localtime": "2022-03-13 14:53"},
+
+{"name": "Victoria", "region": "Beau Vallon", "country": "Seychelles Islands", "lat": -4.62, "lon": 55.45, "tz_id": "Indian/Mahe", "localtime_epoch": 1647179593, "localtime": "2022-03-13 17:53"},
+
+{"name": "Freetown", "region": "Belize", "country": "Belize", "lat": 17.42, "lon": -88.35, "tz_id": "America/Belize", "localtime_epoch": 1647179594, "localtime": "2022-03-13 7:53"},
+
+{"name": "Singapore", "region": "", "country": "Singapore", "lat": 1.29, "lon": 103.86, "tz_id": "Asia/Singapore", "localtime_epoch": 1647179594, "localtime": "2022-03-13 21:53"},
+
+{"name": "Bratislava", "region": "Bratislava", "country": "Slovakia", "lat": 48.15, "lon": 17.12, "tz_id": "Europe/Vienna", "localtime_epoch": 1647179594, "localtime": "2022-03-13 14:53"},
+
+{"name": "Ljubljana", "region": "Bohinj", "country": "Slovenia", "lat": 46.06, "lon": 14.51, "tz_id": "Europe/Ljubljana", "localtime_epoch": 1647179594, "localtime": "2022-03-13 14:53"},
+
+{"name": "Honiara", "region": "Makira", "country": "Solomon Islands", "lat": -9.43, "lon": 159.95, "tz_id": "Pacific/Guadalcanal", "localtime_epoch": 1647179594, "localtime": "2022-03-14 0:53"},
+
+{"name": "Mogadishu", "region": "Banaadir", "country": "Somalia", "lat": 2.07, "lon": 45.37, "tz_id": "Africa/Mogadishu", "localtime_epoch": 1647179594, "localtime": "2022-03-13 16:53"},
+
+{"name": "Pretoria", "region": "Maputo", "country": "Mozambique", "lat": -25.37, "lon": 32.96, "tz_id": "Africa/Maputo", "localtime_epoch": 1647179594, "localtime": "2022-03-13 15:53"},
+
+{"name": "Seoul", "region": "", "country": "South Korea", "lat": 37.57, "lon": 127.0, "tz_id": "Asia/Seoul", "localtime_epoch": 1647179594, "localtime": "2022-03-13 22:53"},
+
+{"name": "Juba", "region": "", "country": "Ethiopia", "lat": 9.73, "lon": 38.7, "tz_id": "Africa/Addis_Ababa", "localtime_epoch": 1647179594, "localtime": "2022-03-13 16:53"},
+
+{"name": "Madrid", "region": "Madrid", "country": "Spain", "lat": 40.4, "lon": -3.68, "tz_id": "Europe/Madrid", "localtime_epoch": 1647179594, "localtime": "2022-03-13 14:53"},
+
+{"name": "Colombo", "region": "Colima", "country": "Mexico", "lat": 19.06, "lon": -104.26, "tz_id": "America/Mexico_City", "localtime_epoch": 1647179594, "localtime": "2022-03-13 7:53"},
+
+{"name": "Al Khartum", "region": "Al Khartum", "country": "Sudan", "lat": 15.59, "lon": 32.53, "tz_id": "Africa/Khartoum", "localtime_epoch": 1647179594, "localtime": "2022-03-13 15:53"},
+
+{"name": "Paramaribo", "region": "Paramaribo", "country": "Suriname", "lat": 5.83, "lon": -55.17, "tz_id": "America/Paramaribo", "localtime_epoch": 1647179594, "localtime": "2022-03-13 10:53"},
+
+{"name": "Longyearbyen (Svalbard)", "region": "Sogn og Fjordane", "country": "Norway", "lat": 78.0, "lon": 16.0, "tz_id": "Arctic/Longyearbyen", "localtime_epoch": 1647179595, "localtime": "2022-03-13 14:53"},
+
+{"name": "Mbabane", "region": "Hhohho", "country": "Swaziland", "lat": -26.32, "lon": 31.13, "tz_id": "Africa/Mbabane", "localtime_epoch": 1647179595, "localtime": "2022-03-13 15:53"},
+
+{"name": "Stockholm", "region": "Stockholms Lan", "country": "Sweden", "lat": 59.33, "lon": 18.05, "tz_id": "Europe/Stockholm", "localtime_epoch": 1647179595, "localtime": "2022-03-13 14:53"},
+
+{"name": "Bern", "region": "", "country": "Switzerland", "lat": 46.92, "lon": 7.47, "tz_id": "Europe/Zurich", "localtime_epoch": 1647179595, "localtime": "2022-03-13 14:53"},
+
+{"name": "Damascus", "region": "Dimashq", "country": "Syria", "lat": 33.5, "lon": 36.3, "tz_id": "Asia/Damascus", "localtime_epoch": 1647179595, "localtime": "2022-03-13 15:53"},
+
+{"name": "Dushanbe", "region": "Khatlon", "country": "Tajikistan", "lat": 38.56, "lon": 68.77, "tz_id": "Asia/Dushanbe", "localtime_epoch": 1647179595, "localtime": "2022-03-13 18:53"},
+
+{"name": "Dodoma", "region": "Dodoma", "country": "Tanzania", "lat": -6.18, "lon": 35.75, "tz_id": "Africa/Dar_es_Salaam", "localtime_epoch": 1647179595, "localtime": "2022-03-13 16:53"},
+
+{"name": "Bangkok", "region": "Krung Thep", "country": "Thailand", "lat": 13.75, "lon": 100.52, "tz_id": "Asia/Bangkok", "localtime_epoch": 1647179595, "localtime": "2022-03-13 20:53"},
+
+{"name": "Kinshasa", "region": "Kinshasa", "country": "Democratic Republic of Congo", "lat": -4.3, "lon": 15.3, "tz_id": "Africa/Brazzaville", "localtime_epoch": 1647179595, "localtime": "2022-03-13 14:53"},
+
+{"name": "Togo", "region": "Minnesota", "country": "USA United States of America", "lat": 47.85, "lon": -92.74, "tz_id": "America/Chicago", "localtime_epoch": 1647179595, "localtime": "2022-03-13 8:53"},
+
+{"name": "Fakaofu Village", "region": "", "country": "Tokelau Islands", "lat": -9.38, "lon": -171.25, "tz_id": "Pacific/Fakaofo", "localtime_epoch": 1647179595, "localtime": "2022-03-14 2:53"},
+
+{"name": "Nuku'alofa", "region": "Tongatapu", "country": "Tonga", "lat": -21.13, "lon": -175.2, "tz_id": "Pacific/Tongatapu", "localtime_epoch": 1647179595, "localtime": "2022-03-14 2:53"},
+
+{"name": "Port Of Spain", "region": "Port-of-Spain", "country": "Trinidad and Tobago", "lat": 10.65, "lon": -61.52, "tz_id": "America/Port_of_Spain", "localtime_epoch": 1647179596, "localtime": "2022-03-13 9:53"},
+
+{"name": "Tunis", "region": "Gabes", "country": "Tunisia", "lat": 36.8, "lon": 10.18, "tz_id": "Africa/Tunis", "localtime_epoch": 1647179596, "localtime": "2022-03-13 14:53"},
+
+{"name": "Ankara", "region": "Ankara", "country": "Turkey", "lat": 39.93, "lon": 32.86, "tz_id": "Europe/Istanbul", "localtime_epoch": 1647179596, "localtime": "2022-03-13 16:53"},
+
+{"name": "Ashgabat", "region": "Ahal", "country": "Turkmenistan", "lat": 37.95, "lon": 58.38, "tz_id": "Asia/Ashgabat", "localtime_epoch": 1647179596, "localtime": "2022-03-13 18:53"},
+
+{"name": "Funafuti", "region": "", "country": "Tuvalu", "lat": -8.52, "lon": 179.22, "tz_id": "Pacific/Funafuti", "localtime_epoch": 1647179596, "localtime": "2022-03-14 1:53"},
+
+{"name": "Kampala", "region": "Kampala", "country": "Uganda", "lat": 0.32, "lon": 32.57, "tz_id": "Africa/Kampala", "localtime_epoch": 1647179596, "localtime": "2022-03-13 16:53"},
+
+{"name": "Lviv", "region": "", "country": "Ukraine", "lat": 49.83, "lon": 24.0, "tz_id": "Europe/Kiev", "localtime_epoch": 1647179596, "localtime": "2022-03-13 15:53"},
+
+{"name": "London", "region": "City of London, Greater London", "country": "United Kingdom", "lat": 51.52, "lon": -0.11, "tz_id": "Europe/London", "localtime_epoch": 1647179596, "localtime": "2022-03-13 13:53"},
+
+{"name": "Washington", "region": "", "country": "Aruba", "lat": 12.55, "lon": -70.03, "tz_id": "America/Aruba", "localtime_epoch": 1647179596, "localtime": "2022-03-13 9:53"},
+
+{"name": "Montevideo", "region": "Montevideo", "country": "Uruguay", "lat": -34.86, "lon": -56.17, "tz_id": "America/Montevideo", "localtime_epoch": 1647179597, "localtime": "2022-03-13 10:53"},
+
+{"name": "Uzbekistan", "region": "Surkhondaryo", "country": "Uzbekistan", "lat": 37.24, "lon": 67.31, "tz_id": "Asia/Kabul", "localtime_epoch": 1647179597, "localtime": "2022-03-13 18:23"},
+
+{"name": "Port Vila", "region": "Efate", "country": "Vanuatu", "lat": -17.73, "lon": 168.32, "tz_id": "Pacific/Efate", "localtime_epoch": 1647179597, "localtime": "2022-03-14 0:53"},
+
+{"name": "Caracas", "region": "Distrito Federal", "country": "Venezuela", "lat": 10.5, "lon": -66.92, "tz_id": "America/Caracas", "localtime_epoch": 1647179597, "localtime": "2022-03-13 9:53"},
+
+{"name": "Hanoi", "region": "", "country": "Vietnam", "lat": 21.03, "lon": 105.85, "tz_id": "Asia/Ho_Chi_Minh", "localtime_epoch": 1647179597, "localtime": "2022-03-13 20:53"},
+
+{"name": "British", "region": "Clarendon", "country": "Jamaica", "lat": 18.12, "lon": -77.2, "tz_id": "America/Jamaica", "localtime_epoch": 1647179597, "localtime": "2022-03-13 8:53"},
+
+{"name": "Agobi U.S.", "region": "Enugu", "country": "Nigeria", "lat": 6.43, "lon": 7.23, "tz_id": "Africa/Lagos", "localtime_epoch": 1647179597, "localtime": "2022-03-13 14:53"},
+
+{"name": "Cardiff", "region": "New South Wales", "country": "Australia", "lat": -32.95, "lon": 151.67, "tz_id": "Australia/Sydney", "localtime_epoch": 1647179597, "localtime": "2022-03-14 0:53"},
+
+{"name": "Utu", "region": "Xinjiang", "country": "China", "lat": 45.52, "lon": 83.75, "tz_id": "Asia/Urumqi", "localtime_epoch": 1647179597, "localtime": "2022-03-13 19:53"},
+
+{"name": "El Paso", "region": "Illinois", "country": "USA United States of America", "lat": 40.74, "lon": -89.01, "tz_id": "America/Chicago", "localtime_epoch": 1647179597, "localtime": "2022-03-13 8:53"},
+
+{"name": "Sanaa", "region": "San", "country": "Yemen", "lat": 15.35, "lon": 44.21, "tz_id": "Asia/Aden", "localtime_epoch": 1647179597, "localtime": "2022-03-13 16:53"},
+
+{"name": "Lusaka", "region": "Lusaka", "country": "Zambia", "lat": -15.42, "lon": 28.28, "tz_id": "Africa/Lusaka", "localtime_epoch": 1647179598, "localtime": "2022-03-13 15:53"},
+
+{"name": "Harare", "region": "Mashonaland East", "country": "Zimbabwe", "lat": -17.82, "lon": 31.04, "tz_id": "Africa/Harare", "localtime_epoch": 1647179598, "localtime": "2022-03-13 15:53"}
+ ]

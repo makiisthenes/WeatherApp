@@ -1,0 +1,137 @@
+type PrvwWeather{
+	id: Int!
+	location_city: String!
+	location_country: String!
+	last_updated_epoch: String!
+	last_updated: String!
+	temp_c: String!
+	temp_f: String!
+	is_day : Int!
+	wind_mph: String!
+	wind_kph: String!
+	wind_degree: String!
+	wind_dir : String!
+	pressure_mb : String!
+	pressure_in: String!
+	rain_chance: Int!
+	daily_will_it_rain: Int!
+	snow_chance: Int!
+	daily_will_it_snow: Int!
+	hashtag_desc : [String!]!
+	emoji_desc : String!
+}
+
+
+
+type HourlyWeather {
+	id: Int!
+	time : String!
+	time_epoch :  String!
+	temp_c : String!
+	temp_f : String!
+	is_day : String!
+	wind_mph : String!
+	wind_kph : String!
+	wind_degree : String!
+	wind_dir : String!
+	pressure_mb : String!
+	pressure_in: String!
+	precip_mm : String!
+	precip_in : String!
+	humidity : String!
+	cloud : String!
+	feelslike_c : String!
+	feelslike_f : String!
+	windchill_c : String!
+	windchill_f : String!
+	heatindex_c : String!
+	heatindex_f:  String!
+	dewpoint_c : String!
+	dewpoint_f : String!
+	will_it_rain : String!
+	chance_of_rain : String!
+	will_it_snow : String!
+	chance_of_snow : String!
+	vis_km : String!
+	vis_miles : String!
+	gust_mph : String!
+	gust_kph : String!
+	uv : String!
+}
+
+
+type FullDayWeather{
+	id : Int!
+	date : String!
+	date_epoch : String!
+	maxtemp_c : String!
+	maxtemp_f : String!
+	mintemp_c : String!
+	mintemp_f : String!
+	avgtemp_f : String!
+	maxwind_mph : String!
+	maxwind_kph : String!
+	totalprecip_mm : String!
+	totalprecip_in : String!
+	avgvis_km : String!
+	avgvis_miles :  String!
+	avghumidity : String!
+	daily_will_it_rain: String!
+	daily_chance_of_rain: String!
+	daily_will_it_snow : String!
+	daily_chance_of_snow : String!
+	sunrise_time : String!
+	sunset_time : String!
+	moonrise_time : String!
+	moonset_time : String!
+	moon_phase : String!
+	moon_illumination : String!
+	status_code : String!
+	hour_data : [HourlyWeather!]!
+}
+
+
+type FullWeather{
+	id: Int!
+	date_updated: Int!
+	week_data: [FullDayWeather!]!
+}
+
+
+"Used as an input for GPS based searches."
+input GPS{
+	lat: String!
+	lon: String!
+}
+
+
+"Used as an input for GPS based searches."
+input GPS{
+	lat: String!
+	lon: String!
+}
+
+type Location{
+	id: Int!
+	lat : String!
+	lon : String!
+	location_name: String!
+	location_region: String!
+	location_country : String!
+	location_tz_id : String!
+	location_localtime_epoch: String!
+	location_localtime : String!
+}
+
+
+#### Top Level Domains
+
+
+type Query {
+	getListSupportedCountriesBySearch(query:String): [Location!]!
+	getPreviewWeather(id: Int!): PrvwWeather!
+	getListSupportedCountriesByGPS(query: GPS!) : Location!
+	getFullWeather(id:Int!): FullWeather!
+}
+
+
