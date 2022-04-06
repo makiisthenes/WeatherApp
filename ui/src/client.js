@@ -9,7 +9,9 @@ function json_date_reviver(key, value) {
 async function graph_ql_fetch(query, variables = {}) {
 	// API send function
 	try {
-		const response = await fetch(process.env.GRAPHQL_ENDPOINT || 'http://localhost:3000/graphql', {
+		console.log("GraphQL endpoint", process.env.GRAPHQL_ENDPOINT);
+		// http://localhost:3000/graphql
+		const response = await fetch(process.env.GRAPHQL_ENDPOINT || 'https://maki-weather-backend.herokuapp.com/graphql', {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json'
