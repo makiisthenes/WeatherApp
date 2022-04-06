@@ -1,5 +1,4 @@
 // This file is a Client to run API calls to our own custom-built API
-require('dotenv').config({ path: 'process.env' });
 const dateRegex = new RegExp('^\\d\\d\\d\\d-\\d\\d-\\d\\d');
 
 function json_date_reviver(key, value) {
