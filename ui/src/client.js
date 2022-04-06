@@ -1,5 +1,5 @@
 // This file is a Client to run API calls to our own custom-built API
-
+require('dotenv').config({ path: 'process.env' });
 const dateRegex = new RegExp('^\\d\\d\\d\\d-\\d\\d-\\d\\d');
 
 function json_date_reviver(key, value) {
@@ -10,7 +10,7 @@ function json_date_reviver(key, value) {
 async function graph_ql_fetch(query, variables = {}) {
 	// API send function
 	try {
-		const response = await fetch('http://localhost:3000/graphql', {
+		const response = await fetch(process.env.GRAPHQL_ENDPOINT || 'http://localhost:3000/graphql', {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json'
