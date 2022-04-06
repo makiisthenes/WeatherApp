@@ -32,7 +32,7 @@ export function Box(props) {
 			await refresh_weather();
 		}, 60000);
 		return () => clearInterval(interval);
-		},[])
+		},[refresh_weather])
 
     function remove(){
         // Function to remove itself if the bin icon is pressed
